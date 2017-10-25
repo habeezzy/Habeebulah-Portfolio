@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
+body {
+  background-color:
+}
+.top {
+  display: flex;
+  margin-bottom: 100px
+}
+
+.chirpus {
+  margin-right: auto;
+  font-family: open sans;
+  font-weight: bold;
+}
+
+.nav {
+  font-family: open sans;
+  margin-left: 10px;
+}
+
+
+
+a {
+  margin: 5px 10px;
+  text-decoration: none;
+  color: rgba(0, 0, 0, 0.75);
+
+
+}
+
+.hire {
+  background-color: black;
+  border-radius: 25px;
+  color: white;
+  padding: 10px 25px;
+  font-stretch: condensed;
+
+}
+
+button {
+  font-family: open sans
+
+}
+
+
+.middle {
+  display: flex;
+}
+
+.text {
+  font-family: open sans;
+
+}
+
+p {
+  color: rgba(0, 0, 0, 0.75);
+  border-left: solid grey 3px;
+}
+
+.circles {
+ position: relative;
+}
+
+#circle1 {
+  width: 275px;
+  height: 275px;
+  border-radius: 50%;
+  background-color: rgba(242, 79, 150, 0.5)
+
+}
+
+#circle2 {
+  width: 175px;
+  height: 175px;
+  border-radius: 50%;
+  background-color: rgba(244, 179, 66, 0.5)
+}
+
+#circle3 {
+  width: 125px;
+  height: 125px;
+  border-radius: 50%;
+  background-color: rgba(203, 111, 232, 0.5)
+
+}
+
+button {
+  font-size: 14px;
+  background-color: black;
+  border-radius: 25px;
+  color: white;
+  padding: 10px 25px;
+}
+
+.bottom {
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  margin-bottom: 0 auto;
